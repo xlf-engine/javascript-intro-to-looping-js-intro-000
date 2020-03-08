@@ -16,3 +16,7 @@ function whileLoop(n) {
     }
     return "done";
   }
+
+  function dowhileLoop(num) {
+    console.log()
+  }
